@@ -1,0 +1,13 @@
+﻿  源.cpp
+C:\Users\William\Desktop\自制程序\c++推箱子\c++推箱子 - 副本\源.cpp(548,50): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\William\Desktop\自制程序\c++推箱子\c++推箱子 - 副本\源.cpp(1614,62): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\William\Desktop\自制程序\c++推箱子\c++推箱子 - 副本\源.cpp(2113,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\William\Desktop\自制程序\c++推箱子\c++推箱子 - 副本\源.cpp(3058,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\William\Desktop\自制程序\c++推箱子\c++推箱子 - 副本\源.cpp(3076,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\William\Desktop\自制程序\c++推箱子\c++推箱子 - 副本\源.cpp(3089,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\William\Desktop\自制程序\c++推箱子\c++推箱子 - 副本\源.cpp(3464,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\William\Desktop\自制程序\c++推箱子\c++推箱子 - 副本\源.cpp(3465,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\William\Desktop\自制程序\c++推箱子\c++推箱子 - 副本\源.cpp(3466,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\William\Desktop\自制程序\c++推箱子\c++推箱子 - 副本\源.cpp(3809,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\William\Desktop\自制程序\c++推箱子\c++推箱子 - 副本\源.cpp(3829,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  c++推箱子.vcxproj -> C:\Users\William\Desktop\自制程序\c++推箱子\c++推箱子 - 副本\x64\Debug\c++推箱子.exe
